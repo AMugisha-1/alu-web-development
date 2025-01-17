@@ -1,1 +1,1 @@
-This is my readme file for my css advanced projects
+This is GAMA's readme file for his css advanced projects.
